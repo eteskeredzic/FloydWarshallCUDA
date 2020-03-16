@@ -48,6 +48,8 @@ We also tested the energy consumption on the embedded GPU, the results are liste
 ![Total energy consumed](https://github.com/eteskeredzic/FloydWarshallCUDA/blob/master/img/energy2.pdf)
 
 
+All of this was created, tested, and documented on glorious GNU/Linux, so we recommend that you run this code on GNU/Linux as well (besides, CUDA in Visual Studio on Windows is just silly).
+
 ```
 /*  
  ----------------------------------------------------------------------------  
